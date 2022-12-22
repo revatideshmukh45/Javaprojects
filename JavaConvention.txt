@@ -4,3 +4,4 @@ method name should start with lower case letter and be verb
 variable name should start with lower case letter 
 package name should be in lower case letter 
 constatnts name should be in upper case letter 
+consturctor to initialize the object
