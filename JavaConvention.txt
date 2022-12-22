@@ -1,0 +1,6 @@
+class name  should start with upper case letter and be a noun
+interface name should start with a letter and be an adjective 
+method name should start with lower case letter and be verb
+variable name should start with lower case letter 
+package name should be in lower case letter 
+constatnts name should be in upper case letter 
